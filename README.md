@@ -1,6 +1,6 @@
 # Hey, I'm Thiago 
 
-Strategy consultant at Kearney by day, building AI-powered tools for consulting workflows by night. Most of my time goes into transforming messy data into sharp executive narratives, financial models, and actionable recommendations for C-level audiences. On the side, I build tools that solve real problems I hit every day on the job. If a workflow is slow, repetitive, or context-heavy, I'll probably try to automate it.
+Strategy consultant at Kearney by day, building AI-powered tools for consulting workflows by night. Most of my time goes into transforming messy data into sharp executive narratives, financial models, and actionable recommendations for C-level audiences. On the side, I build tools that solve my real problems I hit every day on the job. If a workflow is slow, repetitive, or context-heavy, I'll probably try to automate it.
 
 ## What I'm building
 
