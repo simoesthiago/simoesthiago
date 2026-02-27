@@ -13,9 +13,6 @@ Agentic AI workspace that takes a business process description and outputs an ex
 ### 📋 [AI Categorizer](https://github.com/simoesthiago/ai_categorizer)
 Local web app for categorical mapping at scale. Upload a spreadsheet, define target categories, and get back a fully classified file. Batch processing with retry logic, confidence scoring, and progress tracking. Built for the kind of messy vendor/expense data consultants deal with daily.
 
-### 📖 [GenAI Consulting Handbook](https://github.com/simoesthiago/genai_consulting_handbook)
-An opinionated field manual for taking GenAI from "good demo" to reliable production. Covers decision frameworks, architectural patterns, and implementation playbooks — written for two personas: the Deployment Strategist and the Forward-Deployed Engineer.
-
 ### 📁 [Consulting Skills](https://github.com/simoesthiago/consulting_skills)
 Open-source prompt library that turns LLMs into consulting teammates. Modular skill files for slide creation, storyline building, Excel auditing, and more — each one embedding enough context about Pyramid Principle, MECE logic, and insight-driven titles to produce senior-level output.
 
